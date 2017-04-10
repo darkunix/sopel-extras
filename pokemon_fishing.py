@@ -1,6 +1,6 @@
 ##################################################################################################
 # coding=utf-8
-# Author: Hercules -- itsheracules@gmail.com -- irc.lunarirc.net
+# Author: Hercules -- itsheracules@gmail.com -- irc://irc.lunarirc.net/#innuendo
 # Description: fish.py for sopel IRC bot, it is a game based on the creatures from the Pokémon   
 # series. To trigger the plugin, type ".fish" in the channel. 									 
 ##################################################################################################
